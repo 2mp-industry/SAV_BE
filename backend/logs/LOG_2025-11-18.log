@@ -1,0 +1,5 @@
+2025-11-18 09:51:47 | SAV.db | INFO | Database tables created successfully
+2025-11-18 09:51:47 | LOG.app | INFO | Starting uvicorn server on localhost:8000
+2025-11-18 09:51:52 | SAV.db | INFO | Database tables created successfully
+2025-11-18 09:51:52 | SAV.db | INFO | Database tables created successfully
+2025-11-18 09:51:52 | LOG.app | INFO | App API starting up
